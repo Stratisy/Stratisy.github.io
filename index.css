@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-family:  verdana;
+    font-size: 1.5em;
+    color: rgb(255, 255, 255);
+    padding: 0.5em;
+}
+h2 {
+    text-align: center;
+    font-family: verdana;
+    font-size: 1.2em;
+    color: rgb(255, 255, 255);
+    padding: 0.5em;
+}
+h3 {
+    text-align: center;
+    font-family: verdana;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+}
+a {
+    font-family: verdana;
+    font-size: 1em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+body {
+    background-color: rgb(52, 52, 52);
+}
